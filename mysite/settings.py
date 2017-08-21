@@ -25,7 +25,7 @@ SECRET_KEY = 'v2rusi*-a%+-+j(23h!no6y7hwo^4g!_ahnirqgf&^&0(vrqts'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [route2sabya.pythonanywhere.com]
 
 
 # Application definition
